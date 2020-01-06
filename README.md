@@ -10,3 +10,5 @@ git remote add origin https://github.com/SeanSilver/community.git
 
 git push -u origin master
 
+kengOne:bootstrap的下拉菜单不能用，先引入jQuery，type="text/javascript"记得先
+
