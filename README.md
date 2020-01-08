@@ -4,6 +4,8 @@ git init
 
 git add .
 
+git rm --r cached .
+
 git commit -m "备注"
 
 git remote add origin https://github.com/SeanSilver/community.git
